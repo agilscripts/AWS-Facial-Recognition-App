@@ -1,4 +1,6 @@
 # Facial Recognition App on AWS
+![Facial Rekognition](https://github.com/agilscripts/AWS-Facial-Recognition-App/assets/143922871/f0bc7e7c-9ddf-4a80-9f27-705cbbce7ee1)
+
 
 ## Overview
 This project is an end-to-end implementation of a Facial Recognition App on AWS, leveraging key services such as Amazon Rekognition, AWS Lambda, DynamoDB, API Gateway, and S3. The application is designed for employee authentication with a primary focus on security. It utilizes two separate S3 buckets – one for employee photos and another for visitor photos. The system not only verifies employee identities but also has the potential for future integration as a clock-in device, maintaining a log of employee entry times along with their names and employee IDs in DynamoDB.
